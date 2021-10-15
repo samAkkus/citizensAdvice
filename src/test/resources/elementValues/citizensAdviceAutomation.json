@@ -1,0 +1,78 @@
+[
+
+  {
+    "key": "input_Google_Search",
+    "value": "form[role='search'] input[name='q']",
+    "type": "css"
+  },
+  {
+    "key": "link_CitizensAdvice_Link",
+    "value": "a[href='https://www.citizensadvice.org.uk/']",
+    "type": "css"
+  },
+  {
+    "key": "btn_England",
+    "value": "a[lang='en-GB']",
+    "type": "css"
+  },
+  {
+    "key": "text_List_Of_Items",
+    "value": "li[class='top-item js-mega-menu'] > a",
+    "type": "css"
+  },
+  {
+    "key": "input_Citizens_Advice_Page",
+    "value": "input[id='main-header__search__input']",
+    "type": "css"
+  },
+  {
+    "key": "text_Staying_In_UK",
+    "value": "//a[text()='Staying in the UK on a visa without your partner']",
+    "type": "xpath"
+  },
+  {
+    "key": "text_Immigration_Text",
+    "value": "li[class='cads-breadcrumbs__crumb'] a[href='/immigration/']",
+    "type": "css"
+  },
+  {
+    "key": "aa",
+    "value": "aaa",
+    "type": "aa"
+  },
+  {
+    "key": "aa",
+    "value": "aaa",
+    "type": "aa"
+  },
+  {
+    "key": "aa",
+    "value": "aaa",
+    "type": "aa"
+  },
+  {
+    "key": "aa",
+    "value": "aaa",
+    "type": "aa"
+  },
+  {
+    "key": "aa",
+    "value": "aaa",
+    "type": "aa"
+  },
+  {
+    "key": "aa",
+    "value": "aaa",
+    "type": "aa"
+  },
+  {
+    "key": "aa",
+    "value": "aaa",
+    "type": "aa"
+  },
+  {
+    "key": "aa",
+    "value": "aaa",
+    "type": "aa"
+  }
+]

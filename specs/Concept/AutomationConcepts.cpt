@@ -1,0 +1,25 @@
+# As a user I should be able to search for Citizens Advice on Google
+* Check "input_Google_Search" element if it is visible
+* Send "Citizens Advice" to "input_Google_Search" element and click ENTER
+* Check "link_CitizensAdvice_Link" element if it is visible
+* Click on "link_CitizensAdvice_Link" element
+
+# I want to see and verify the list of items on the main navigation header of the home page
+* Check "btn_England" element if it is visible
+* Click on "btn_England" element
+* See and verify the list of items on the main navigation header
+
+# And I can search for Immigration on Brexit related help on the home page
+* Check "input_Citizens_Advice_Page" element if it is visible
+* Send "Immigration on Brexit" to "input_Citizens_Advice_Page" element and click ENTER
+
+# Verify the search results contain a link to Staying in the UK on a visa without your partner
+* Check "text_Staying_In_UK" element if it is present
+
+# When I navigate to Staying in the UK on a visa without your partner link
+* Click "text_Staying_In_UK" element with js
+
+# Then I see immigration related help under main Immigration section
+* Check "text_Immigration_Text" element if it is visible
+
+

@@ -1,0 +1,8 @@
+[
+	"/usr/local/bin/gauge",
+	"run",
+	"--machine-readable",
+	"--hide-suggestion",
+	"--simple-console",
+	"/Users/kabardeyo/IdeaProjects/citizensAdvice/specs/CitizensAdviceAutomation.spec:6"
+]
