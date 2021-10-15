@@ -1,0 +1,16 @@
+15-10-2021 23:41:17.555 [Gauge] [INFO] Watching directory: /Users/kabardeyo/IdeaProjects/citizensAdvice/specs
+15-10-2021 23:41:17.556 [Gauge] [DEBUG] Found 1 files
+15-10-2021 23:41:17.556 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+15-10-2021 23:41:17.557 [Gauge] [INFO] Initializing specs cache with 1 specs
+15-10-2021 23:41:17.557 [Gauge] [DEBUG] Adding specs from /Users/kabardeyo/IdeaProjects/citizensAdvice/specs/example.spec
+15-10-2021 23:41:17.557 [Gauge] [INFO] Initializing steps cache with 1 steps
+15-10-2021 23:41:17.557 [Gauge] [INFO] Gauge daemon initialized and listening on port: 60827
+15-10-2021 23:41:22.547 [Gauge] [DEBUG] Api Request Received: messageType:GetLanguagePluginLibPathRequest messageId:5 libPathRequest:{language:"java"}
+15-10-2021 23:41:22.548 [Gauge] [DEBUG] Sending API response: messageType:GetLanguagePluginLibPathResponse messageId:5 libPathResponse:{path:"/Users/kabardeyo/.gauge/plugins/java/0.7.13/libs"}
+15-10-2021 23:44:10.658 [Gauge] [INFO] Watching directory: /Users/kabardeyo/IdeaProjects/citizensAdvice/specs
+15-10-2021 23:44:10.658 [Gauge] [DEBUG] Found 1 files
+15-10-2021 23:44:10.659 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+15-10-2021 23:44:10.659 [Gauge] [INFO] Initializing specs cache with 1 specs
+15-10-2021 23:44:10.659 [Gauge] [DEBUG] Adding specs from /Users/kabardeyo/IdeaProjects/citizensAdvice/specs/example.spec
+15-10-2021 23:44:10.659 [Gauge] [INFO] Initializing steps cache with 1 steps
+15-10-2021 23:44:10.659 [Gauge] [INFO] Gauge daemon initialized and listening on port: 60929
